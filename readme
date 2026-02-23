@@ -1,0 +1,11 @@
+cd ~/Desktop/"SAARA FOLDER"/"Node JS"/"Hello World"
+
+request-
+|
+event queue-
+|
+event loop 
+|
+blocking operations    non blocking operations-process-sync simple
+|
+default thread pool
